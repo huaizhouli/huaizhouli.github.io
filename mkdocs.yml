@@ -2,3 +2,6 @@ site_name: Huaizhou Li
 site_url: https://huaizhou-li.com
 theme:
   name: material
+theme:
+  palette:
+    primary: indigo
