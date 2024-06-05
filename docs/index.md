@@ -1,9 +1,3 @@
----
-template: home.html
-hide:
-  - toc
-  - footer
---- 
 
 # Huaizhou Li 
 
