@@ -2,3 +2,4 @@ site_name: Huaizhou Li
 site_url: https://huaizhouli.github.io/
 theme:
   name: material
+  custom: overrides
