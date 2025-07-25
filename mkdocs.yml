@@ -3,6 +3,6 @@ site_url: https://huaizhouli.github.io/
 theme:
   palette:
     primary: blue
-    scheme: default
+    scheme: slate
   name: material
   custom_dir: overrides
