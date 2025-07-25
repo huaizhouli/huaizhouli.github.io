@@ -1,10 +1,13 @@
 
-# Huaizhou Li 
+# Huaizhou Li
 
-<img id="hide-on-large" src="/images/fb401c1bec13f6b3366b4143d8f9697e.JPG" width="100%">
-
-[Huaizhou Li](https://huaizhouli.github.io/), is a **PhD Candidate in Finance** at the School of Banking and Finance, UNSW Business School. His research interests include corporate finance, product market competition, entrepreneurial finance and international trade. 
-His work has been accepted for presentation at conferences such as CICF, FMA, FIRN, and AFBC.
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
+  <img src="/images/fb401c1bec13f6b3366b4143d8f9697e.JPG" alt="Profile Photo" style="width: 180px; border-radius: 8px;">
+  <div>
+    [Huaizhou Li](https://huaizhouli.github.io/), is a **PhD Candidate in Finance** at the School of Banking and Finance, UNSW Business School. His research interests include corporate finance, product market competition, entrepreneurial finance and international trade.  
+    His work has been accepted for presentation at conferences such as CICF, FMA, FIRN, and AFBC.
+  </div>
+</div>
 
 ## Education
 
