@@ -1,17 +1,21 @@
 
 # Huaizhou Li
 
-<table>
-<tr>
-  <td style="vertical-align: top;">
-    [Huaizhou Li](https://huaizhouli.github.io/) is a **PhD Candidate in Finance** at the School of Banking and Finance, UNSW Business School. His research interests include corporate finance, product market competition, entrepreneurial finance, and international trade.  
-    His work has been accepted for presentation at conferences such as CICF, FMA, FIRN, and AFBC.
-  </td>
-  <td style="vertical-align: top; padding-left: 20px;">
-    <img src="/images/fb401c1bec13f6b3366b4143d8f9697e.JPG" alt="Profile Photo" style="width: 240px; border-radius: 8px;">
-  </td>
-</tr>
-</table>
+<div style="display: flex; align-items: flex-start; justify-content: space-between; flex-wrap: wrap; gap: 40px; margin-bottom: 2rem;">
+
+  <div style="flex: 1 1 400px; font-size: 1.15rem; line-height: 1.6;">
+    <p>
+      <a href="https://huaizhouli.github.io/">Huaizhou Li</a> is a <strong>PhD Candidate in Finance</strong> at the School of Banking and Finance, UNSW Business School.  
+      His research interests include corporate finance, product market competition, entrepreneurial finance, and international trade.  
+      His work has been accepted for presentation at conferences such as CICF, FMA, FIRN, and AFBC.
+    </p>
+  </div>
+
+  <div style="flex: 0 0 auto;">
+    <img src="/images/fb401c1bec13f6b3366b4143d8f9697e.JPG" alt="Profile Photo" style="width: 340px; max-width: 100%; border-radius: 12px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);">
+  </div>
+
+</div>
 
 
 ## Education
