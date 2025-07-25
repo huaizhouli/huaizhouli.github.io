@@ -7,4 +7,16 @@ theme:
   palette:
     scheme: slate
     primary: blue
-    
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+
+# Optional: Add this if you want to include extra CSS
+# extra_css:
+#   - stylesheets/extra.css
