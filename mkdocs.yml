@@ -1,8 +1,10 @@
 site_name: Huaizhou Li
 site_url: https://huaizhouli.github.io/
+
 theme:
-  palette:
-    primary: blue
-    scheme: slate
   name: material
   custom_dir: overrides
+  palette:
+    scheme: slate
+    primary: blue
+    
