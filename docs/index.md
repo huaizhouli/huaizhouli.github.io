@@ -14,9 +14,8 @@
   <!-- Intro (right, default text size) -->
   <div style="flex:1 1 auto; min-width:0; font-size:1rem; line-height:1.65; display:flex; align-items:flex-start;">
     <p style="margin:0;">
-      Welcome to my notebook! I am a <strong>PhD Candidate in Finance</strong> at the School of Banking and Finance, UNSW Business School.
-      My research interests include corporate finance, product market competition, entrepreneurial finance, and international trade.
-      My work has been accepted for presentation at conferences such as CICF, FMA, FIRN, and AFBC.
+      Hi there, and welcome! I’m a <strong>Postdoctoral Research Fellow in Finance</strong> at the Tuck School of Business, Dartmouth College, with a PhD from UNSW Business School.       My research interests include corporate finance, product market competition, entrepreneurial finance, and international trade.
+      My work has been presented at conferences such as CICF, FMA, FIRN, and AFBC.
     </p>
   </div>
 
@@ -24,14 +23,16 @@
 
 ## Education
 
-- 2020 - current **Ph.D.** in Finance, University of New South Wales
+- 2025 - current **Post-Doc** in Finance, Tuck School of Business, Dartmouth College
+- 2020 - 2024 **Ph.D.** in Finance, University of New South Wales
 - 2019 - 2020 **Pre-Doc** in Finance, University of New South Wales
 - 2016 - 2018 **MPhil** in Finance, University of New South Wales
 - 2012 - 2016 **Bachelor** of Economics (major in Finance), Nanjing Normal University
 
 ## Contact
 
-- Email: [huaizhou.li@unsw.edu.au](mailto:huaizhou.li@unsw.edu.au)
+- Email (preferred from Sep 2025): [Huaizhou.Li@tuck.dartmouth.edu](mailto:Huaizhou.Li@tuck.dartmouth.edu)
+- Email (active but not checked regularly): [huaizhou.li@unsw.edu.au](mailto:huaizhou.li@unsw.edu.au)
 
 ## News
 
