@@ -1,4 +1,4 @@
-# Huaizhou Li
+# "Hello — morning, noon, and night!"
 
 <div style="display:flex; align-items:flex-start; gap:32px; margin-bottom:2rem; flex-wrap:nowrap;">
 
@@ -12,7 +12,7 @@
   </div>
 
   <!-- Intro (right) -->
-  <div style="flex:1 1 auto; min-width:0; font-size:clamp(1rem, 0.95rem + 0.3vw, 1.15rem); line-height:1.65;">
+  <div style="flex:1 1 auto; min-width:0; line-height:1.65;">
     <p>
       <a href="https://huaizhouli.github.io/">Huaizhou Li</a> is a <strong>PhD Candidate in Finance</strong> at the School of Banking and Finance, UNSW Business School.
       His research interests include corporate finance, product market competition, entrepreneurial finance, and international trade.
