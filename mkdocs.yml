@@ -14,9 +14,9 @@ nav:
 docs_dir: docs/
 
 theme:
-  name: material
-  icon: 
-    logo: images/Favicon.png
+  name: material 
+  logo: images/Favicon.png
+  favicon: images/Favicon.png
   features:
     - navigation.tabs
     - search.suggest
