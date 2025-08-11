@@ -16,8 +16,7 @@ docs_dir: docs/
 theme:
   name: material
   icon: 
-    logo: material/notebook-outline
-  favicon: images/favicon.png
+    logo: images/Favicon.png
   features:
     - navigation.tabs
     - search.suggest
