@@ -1,8 +1,8 @@
 site_name: Huaizhou Li
 site_url: https://huaizhouli.github.io/
 
-
 theme:
+  name: material
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
