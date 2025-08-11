@@ -17,6 +17,7 @@ theme:
   name: material
   icon: 
     logo: material/notebook-outline
+  favicon: images/favicon.png
   features:
     - navigation.tabs
     - search.suggest
