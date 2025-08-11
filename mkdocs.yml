@@ -5,6 +5,8 @@ nav:
   - Home: index.md
   - Research:
       - research/index.md
+  - Teaching:
+      - teaching/index.md
 docs_dir: docs/
 
 theme:
