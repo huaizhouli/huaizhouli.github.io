@@ -37,7 +37,3 @@
 - 2024-04-04: My paper ["Startup Press Releases"]() with [Leo Liu](https://leoliu0.github.io/), [Peter Pham](https://sites.google.com/view/peterkienpham/home) and [Jason Zein](https://www.jasonzein.com/) has been accepted for presentation at the **CICF 2024**.
 - 2023-12-12: Finished my one-term visiting at Tuck School of Business, Dartmouth College. Many thanks to my wonderful host, [Prof. Gordon Phillips](https://facultynew.tuck.dartmouth.edu/gordon-phillips/). It is so nice to get back at Sydney before the severe winter in Hanover.
 
-## Research
-
-- ["Does Common Ownership Raise Antitrust Concerns?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4972463)
-- ["Startup Press Releases"]()
