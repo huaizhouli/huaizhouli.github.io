@@ -1,18 +1,18 @@
 # "Hello — morning, noon, and night!"
 
-<div style="display:flex; align-items:flex-start; gap:32px; margin-bottom:2rem; flex-wrap:nowrap;">
+<div style="display:flex; align-items:flex-start; gap:24px; margin-bottom:2rem; flex-wrap:nowrap;">
 
-  <!-- Photo (left) -->
+  <!-- Photo (left, smaller) -->
   <div style="flex:0 0 auto;">
     <img
-      src="/images/selfie_v.jpeg"
+      src="images/selfie_v.jpeg"
       alt="Profile Photo"
-      style="width:clamp(140px, 28vw, 340px); height:auto; max-width:100%; border-radius:12px; box-shadow:0 4px 16px rgba(0,0,0,0.2);"
+      style="width:clamp(100px, 20vw, 220px); height:auto; max-width:100%; border-radius:12px; box-shadow:0 4px 16px rgba(0,0,0,0.2);"
     >
   </div>
 
-  <!-- Intro (right) -->
-  <div style="flex:1 1 auto; min-width:0; line-height:1.65;">
+  <!-- Intro (right, default text size) -->
+  <div style="flex:1 1 auto; min-width:0; font-size:1rem; line-height:1.65;">
     <p>
       <a href="https://huaizhouli.github.io/">Huaizhou Li</a> is a <strong>PhD Candidate in Finance</strong> at the School of Banking and Finance, UNSW Business School.
       His research interests include corporate finance, product market competition, entrepreneurial finance, and international trade.
