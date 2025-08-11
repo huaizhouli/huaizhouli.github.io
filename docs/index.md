@@ -5,7 +5,7 @@
   <!-- Photo (left) -->
   <div style="flex:0 0 auto;">
     <img
-      src="/images/selfie_v.JPG"
+      src="/images/selfie_v.jpeg"
       alt="Profile Photo"
       style="width:clamp(140px, 28vw, 340px); height:auto; max-width:100%; border-radius:12px; box-shadow:0 4px 16px rgba(0,0,0,0.2);"
     >
