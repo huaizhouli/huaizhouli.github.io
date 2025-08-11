@@ -1,8 +1,21 @@
 site_name: Huaizhou Li
 site_url: https://huaizhouli.github.io/
 
+nav:
+  - Home: index.md
+  - Research:
+      - research/index.md
+docs_dir: docs/
+
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.top
+    - navigation.indexes
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
