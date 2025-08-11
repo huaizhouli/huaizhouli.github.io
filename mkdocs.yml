@@ -30,6 +30,14 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/huaizhouli
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/huaizhou-will-li-a83990144/
+copyright: Copyright &copy; 2024 - 2025 huaizhouli
+
 markdown_extensions:
   - admonition
   - codehilite
