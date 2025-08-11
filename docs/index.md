@@ -2,8 +2,8 @@
 
 <div style="display:flex; align-items:flex-start; gap:24px; margin-bottom:2rem; flex-wrap:nowrap;">
 
-  <!-- Photo (left, smaller) -->
-  <div style="flex:0 0 auto;">
+  <!-- Photo (left, smaller, aligned with text) -->
+  <div style="flex:0 0 auto; display:flex; align-items:flex-start;">
     <img
       src="images/selfie_v.jpeg"
       alt="Profile Photo"
@@ -12,11 +12,11 @@
   </div>
 
   <!-- Intro (right, default text size) -->
-  <div style="flex:1 1 auto; min-width:0; font-size:1rem; line-height:1.65;">
-    <p>
-      <a href="https://huaizhouli.github.io/">Huaizhou Li</a> is a <strong>PhD Candidate in Finance</strong> at the School of Banking and Finance, UNSW Business School.
-      His research interests include corporate finance, product market competition, entrepreneurial finance, and international trade.
-      His work has been accepted for presentation at conferences such as CICF, FMA, FIRN, and AFBC.
+  <div style="flex:1 1 auto; min-width:0; font-size:1rem; line-height:1.65; display:flex; align-items:flex-start;">
+    <p style="margin:0;">
+      Welcome to my notebook! I am a <strong>PhD Candidate in Finance</strong> at the School of Banking and Finance, UNSW Business School.
+      My research interests include corporate finance, product market competition, entrepreneurial finance, and international trade.
+      My work has been accepted for presentation at conferences such as CICF, FMA, FIRN, and AFBC.
     </p>
   </div>
 
