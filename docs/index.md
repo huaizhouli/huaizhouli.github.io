@@ -21,9 +21,10 @@
 
 </div>
 
-## Education
+## Education & Experience
 
-- 2025 - current **Post-Doc** in Finance, Tuck School of Business, Dartmouth College
+- 2025 September - Present **Post-Doc** in Finance, Tuck School of Business, Dartmouth College
+- 2025 January - August **Casual Academic** in Finance, University of New South Wales
 - 2020 - 2024 **Ph.D.** in Finance, University of New South Wales
 - 2019 - 2020 **Pre-Doc** in Finance, University of New South Wales
 - 2016 - 2018 **MPhil** in Finance, University of New South Wales
