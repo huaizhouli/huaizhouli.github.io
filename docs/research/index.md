@@ -12,6 +12,7 @@
     - Presented at  CELS (Conference for Empirical Legal Studies) 2022, FIRN 2022, FMA Asia 2022,  AFBC 2022, FMCG (Financial Market and Corporate Governance) 2022 (Runner-up for Best paper in Corporate Finance)
 
 - **Import Competition and U.S. Firms: A Text-Based Approach**
+    - Accepted at AFA Poster 2026    
     - (Draft Available Upon Request)
 
 
