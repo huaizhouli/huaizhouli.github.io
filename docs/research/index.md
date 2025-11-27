@@ -3,7 +3,7 @@
 ## 📝 Working Papers
 
 - [**Startup Press Releases**](https://www.dropbox.com/scl/fi/718hh9p7cngcd8izkwu8a/main.pdf?rlkey=gdleuhzts0g7iaggxsk9efte0&st=14bcrcd3&dl=0), with [Leo Liu](https://leoliu0.github.io/), [Peter Pham](https://sites.google.com/view/peterkienpham/home) and [Jason Zein](https://www.jasonzein.com/)
-    - Presented at CICF 2024, FMA Asia 2024, Monash Winter Finance 2024, FMA Annual 2024, FIRN 2025
+    - Presented at CICF 2024, FMA Asia 2024, Monash Winter Finance 2024, FMA Annual 2024, FIRN 2025 (Best Paper Runner-up Prize)
     - (SSRN link coming soon)
 
 - [**Does Common Ownership Raise Antitrust Concerns?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4972463), with [Leo Liu](https://leoliu0.github.io/), [Ron Masulis](https://sites.google.com/site/ronmasulis) and [Jason Zein](https://www.jasonzein.com/)
