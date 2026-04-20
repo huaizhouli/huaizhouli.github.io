@@ -14,7 +14,7 @@
   <!-- Intro (right, default text size) -->
   <div style="flex:1 1 auto; min-width:0; font-size:1rem; line-height:1.65; display:flex; align-items:flex-start;">
     <p style="margin:0;">
-      Hi there, and welcome! I’m a <strong>Postdoctoral Research Fellow in Finance</strong> at the Tuck School of Business, Dartmouth College, with a PhD from UNSW Business School.       My research interests include corporate finance, product market competition, entrepreneurial finance, and international trade.
+      Hi there, and welcome! I’m an <strong>Early Career Academic Fellow in Economics</strong> at the University of New South Wales, and a former <strong>Postdoctoral Researcher in Finance</strong> at the Tuck School of Business, Dartmouth College, with a PhD in finance from UNSW Business School.       My research interests include corporate finance, product market competition, entrepreneurial finance, and international trade.
       My work has been presented at conferences such as CICF, FMA, FIRN, and AFBC.
     </p>
   </div>
@@ -23,8 +23,9 @@
 
 ## Education & Experience
 
-- 2025 September - Present **Post-Doc** in Finance, Tuck School of Business, Dartmouth College
-- 2025 January - August **Casual Academic** in Finance, University of New South Wales
+- 2026 Feb - Present **Early Career Academic Fellow** in Economics, University of New South Wales
+- 2025 Sep - 2026 Jan **Post-Doc** in Finance, Tuck School of Business, Dartmouth College
+- 2025 Jan - Aug **Casual Academic** in Finance, University of New South Wales
 - 2020 - 2024 **Ph.D.** in Finance, University of New South Wales
 - 2019 - 2020 **Pre-Doc** in Finance, University of New South Wales
 - 2016 - 2018 **MPhil** in Finance, University of New South Wales
@@ -32,8 +33,8 @@
 
 ## Contact
 
-- Email (preferred from Sep 2025): [Huaizhou.Li@tuck.dartmouth.edu](mailto:Huaizhou.Li@tuck.dartmouth.edu)
-- Email (active but not checked regularly): [huaizhou.li@unsw.edu.au](mailto:huaizhou.li@unsw.edu.au)
+- Email (preferred from Feb 2026): [huaizhou.li@unsw.edu.au](mailto:huaizhou.li@unsw.edu.au)
+- Email (active but not checked regularly): [Huaizhou.Li@tuck.dartmouth.edu](mailto:Huaizhou.Li@tuck.dartmouth.edu)
 
 <!-- ## News
 
