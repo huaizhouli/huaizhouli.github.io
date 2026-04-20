@@ -12,9 +12,9 @@
   </div>
 
   <!-- Intro (right, default text size) -->
-  <div style="flex:1 1 auto; min-width:0; font-size:1rem; line-height:1.65; display:flex; align-items:flex-start;">
+  <div style="flex:1 1 auto; min-width:0; font-size:0.9rem; line-height:1.65; display:flex; align-items:flex-start;">
     <p style="margin:0;">
-      Hi there, and welcome! I’m an <strong>Early Career Academic Fellow in Economics</strong> at the University of New South Wales, and a former <strong>Postdoctoral Researcher in Finance</strong> at the Tuck School of Business, Dartmouth College, with a PhD in finance from UNSW Business School.       My research interests include corporate finance, product market competition, entrepreneurial finance, and international trade.
+      Hi there, and welcome! I’m an <strong>Early Career Academic Fellow in Economics</strong> at the University of New South Wales, and a former <strong>Postdoctoral Researcher in Finance</strong> at the Tuck School of Business, Dartmouth College, with a PhD in finance from UNSW Business School. My research interests include corporate finance, product market competition, entrepreneurial finance, and international trade.
       My work has been presented at conferences such as CICF, FMA, FIRN, and AFBC.
     </p>
   </div>
