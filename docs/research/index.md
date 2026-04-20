@@ -11,7 +11,7 @@
     - Featured in the [Harvard Law School Forum on Corporate Governance](https://corpgov.law.harvard.edu/2025/01/06/does-common-ownership-raise-antitrust-concerns/)
     - Presented at  CELS (Conference for Empirical Legal Studies) 2022, FIRN 2022, FMA Asia 2022,  AFBC 2022, FMCG (Financial Market and Corporate Governance) 2022 (Runner-up for Best paper in Corporate Finance)
 
-- **Import Competition and U.S. Firms: A Text-Based Approach**
+- [**Import Competition and U.S. Firms: A Text-Based Approach**](https://www.dropbox.com/scl/fi/llemzdiivgx8t8dfd9xvw/AFA_Poster_Will.pdf?rlkey=z80xrwjd62el5xx8e4684dbrn&st=nbvidgha&dl=0)
     - Accepted at AFA Poster 2026    
     - (Draft Available Upon Request)
 
