@@ -16,6 +16,6 @@
     - (Draft Available Upon Request)
 
 - **U.S. China Innovation Competition**, with [Gerard Hoberg](https://faculty.marshall.usc.edu/Gerard-Hoberg/), and [Gordon Philips](https://faculty.tuck.dartmouth.edu/gordon-phillips/)
-    - (Ongoing Project)
+    - (Revising for resubmission to **_the Review of Financial Studies_**)
 
 ## 💻 Data & Code
