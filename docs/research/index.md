@@ -15,7 +15,7 @@
     - Accepted at AFA Poster 2026    
     - (Draft Available Upon Request)
 
-- **U.S. China Innovation Competition**, with [Gerard Hoberg](https://faculty.marshall.usc.edu/Gerard-Hoberg/), and [Gordon Philips](https://faculty.tuck.dartmouth.edu/gordon-phillips/)
+- [**U.S. China Innovation Competition**](https://www.dropbox.com/scl/fi/k52cikcw6ks3vpwtrm9rj/main_language_updated.pdf?rlkey=1ikau9de6c7r2a7lqgrsgssyi&st=knj3g0tq&dl=0), with [Gerard Hoberg](https://faculty.marshall.usc.edu/Gerard-Hoberg/), and [Gordon Philips](https://faculty.tuck.dartmouth.edu/gordon-phillips/)
     - (Revising for resubmission to **_the Review of Financial Studies_**)
 
 ## 💻 Data & Code
