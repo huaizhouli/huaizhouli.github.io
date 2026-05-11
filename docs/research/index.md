@@ -2,6 +2,9 @@
 
 ## 📝 Working Papers
 
+- [**U.S. China Innovation Competition**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6730426), with [Gerard Hoberg](https://faculty.marshall.usc.edu/Gerard-Hoberg/), and [Gordon Philips](https://faculty.tuck.dartmouth.edu/gordon-phillips/)
+    - (Revising for resubmission to **_the Review of Financial Studies_**)
+
 - [**Startup Press Releases**](https://www.dropbox.com/scl/fi/718hh9p7cngcd8izkwu8a/main.pdf?rlkey=gdleuhzts0g7iaggxsk9efte0&st=14bcrcd3&dl=0), with [Leo Liu](https://leoliu0.github.io/), [Peter Pham](https://sites.google.com/view/peterkienpham/home) and [Jason Zein](https://www.jasonzein.com/)
     - Presented at CICF 2024, FMA Asia 2024, Monash Winter Finance 2024, FMA Annual 2024, FIRN 2025 (Best Paper Runner-up Prize)
     - (SSRN link coming soon)
@@ -14,8 +17,5 @@
 - [**Import Competition and U.S. Firms: A Text-Based Approach**](https://www.dropbox.com/scl/fi/llemzdiivgx8t8dfd9xvw/AFA_Poster_Will.pdf?rlkey=z80xrwjd62el5xx8e4684dbrn&st=nbvidgha&dl=0)
     - Accepted at AFA Poster 2026    
     - (Draft Available Upon Request)
-
-- [**U.S. China Innovation Competition**](https://www.dropbox.com/scl/fi/k52cikcw6ks3vpwtrm9rj/main_language_updated.pdf?rlkey=1ikau9de6c7r2a7lqgrsgssyi&st=knj3g0tq&dl=0), with [Gerard Hoberg](https://faculty.marshall.usc.edu/Gerard-Hoberg/), and [Gordon Philips](https://faculty.tuck.dartmouth.edu/gordon-phillips/)
-    - (Revising for resubmission to **_the Review of Financial Studies_**)
 
 ## 💻 Data & Code
