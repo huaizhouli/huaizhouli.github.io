@@ -5,7 +5,7 @@
 - [**U.S. China Innovation Competition**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6730426), with [Gerard Hoberg](https://faculty.marshall.usc.edu/Gerard-Hoberg/), and [Gordon Philips](https://faculty.tuck.dartmouth.edu/gordon-phillips/)
     - (Revising for resubmission to **_the Review of Financial Studies_**)
 
-- [**Startup Press Releases**](https://www.dropbox.com/scl/fi/718hh9p7cngcd8izkwu8a/main.pdf?rlkey=gdleuhzts0g7iaggxsk9efte0&st=14bcrcd3&dl=0), with [Leo Liu](https://leoliu0.github.io/), [Peter Pham](https://sites.google.com/view/peterkienpham/home) and [Jason Zein](https://www.jasonzein.com/)
+- [**Startup Press Releases**](https://www.dropbox.com/scl/fi/npdnby1w9cokinkf5f053/main.pdf?rlkey=6vg70dqft25g7qgwvy31bwnm5&st=2f0fp7r1&dl=0), with [Leo Liu](https://leoliu0.github.io/), [Peter Pham](https://sites.google.com/view/peterkienpham/home) and [Jason Zein](https://www.jasonzein.com/)
     - Presented at CICF 2024, FMA Asia 2024, Monash Winter Finance 2024, FMA Annual 2024, FIRN 2025 (Best Paper Runner-up Prize)
     - (SSRN link coming soon)
 
