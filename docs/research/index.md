@@ -13,9 +13,10 @@
     - Accepted at AFA Poster 2026    
     - (Draft Available Upon Request)
  
-- [**Does Common Ownership Raise Antitrust Concerns?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4972463), with [Leo Liu](https://leoliu0.github.io/), [Ron Masulis](https://sites.google.com/site/ronmasulis) and [Jason Zein](https://www.jasonzein.com/)
-    - ***Accepted*** at **_the Journal of Corporate Finance_**
-    - Featured in the [Harvard Law School Forum on Corporate Governance](https://corpgov.law.harvard.edu/2025/01/06/does-common-ownership-raise-antitrust-concerns/)
-    - Presented at  CELS (Conference for Empirical Legal Studies) 2022, FIRN 2022, FMA Asia 2022,  AFBC 2022, FMCG (Financial Market and Corporate Governance) 2022 (Runner-up for Best paper in Corporate Finance)
+## 📰 Publications
 
+- [**Does Common Ownership Raise Antitrust Concerns?**](https://doi.org/10.1016/j.jcorpfin.2026.103037), with [Leo Liu](https://leoliu0.github.io/), [Ron Masulis](https://sites.google.com/site/ronmasulis) and [Jason Zein](https://www.jasonzein.com/)
+    - ***Journal of Corporate Finance***, Volume 100, 2026, 103037
+    - Featured in the [Harvard Law School Forum on Corporate Governance](https://corpgov.law.harvard.edu/2025/01/06/does-common-ownership-raise-antitrust-concerns/)
+    
 ## 💻 Data & Code
